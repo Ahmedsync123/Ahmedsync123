@@ -1,68 +1,36 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" width="50%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
+<details>
+<p><strong> <summary>  Busy learning & coding :   </summary> </strong></p>
+
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
-# 👋 Hi, I'm Ahmed Reda
+<hr></hr>
 
-I'm a beginner Front-End Developer passionate about learning how websites work and how to build simple, clean, and responsive web pages.
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 
----
-
-## 📚 About My Learning Journey
-
-I am currently studying computer science fundamentals through the CS50 course.
-
-In this journey, I learned the core concepts of programming and web development from the ground up.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ---
 
-## 💡 Skills Learned in CS50
+```dart
+// tools_I_use organized
 
-### 🧠 Programming Fundamentals
-- Problem solving using computational thinking  
-- Writing algorithms step by step  
-- Understanding how computers execute instructions  
-
-### ⚙️ Programming Languages
-- **C Language**
-  - Variables, conditions, loops  
-  - Functions  
-  - Memory basics (stack & heap concepts)
-
-- **Python**
-  - Basic syntax  
-  - Data types and structures  
-  - Problem solving using scripts  
-
-### 🌐 Web Development Basics
-- HTML structure and semantic elements  
-- CSS styling and page design  
-- JavaScript basics (DOM, events, logic)
-
-### 🗄️ Databases
-- SQL fundamentals  
-- Writing basic queries  
-- Working with structured data  
-
-### 🔐 Computer Science Concepts
-- Memory and how data is stored  
-- Basic security awareness  
-- Data structures (arrays and simple structures)  
-- Software design thinking  
-
----
-
-## 🚀 Goals
-- Improve my Front-End skills step by step  
-- Build real-world projects using HTML, CSS, and JavaScript  
-- Strengthen problem-solving skills  
-- Become a professional web developer in the future  
-
----
-
-## 📫 Contact
-Feel free to follow my journey as I keep learning and building projects.
-
-</div>
+class About extends Me { 
+  const myTools = {  
+    "ProgrammingLanguages" : { "C", "Python", "JavaScript" },
+    "WebBasics" : { "HTML", "CSS" },
+    "Concepts" : { "Problem Solving", "Algorithms", "Data Structures Basics" },
+    "Tools" : { "Git", "VS Code", "Linux Basics" }
+  };
+}
