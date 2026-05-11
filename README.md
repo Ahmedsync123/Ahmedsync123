@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Front-End+Developer+in+Progress;Learning+CS50+Basics;Building+My+Skills+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Front-End+Developer+in+Progress;Building+My+Skills+Step+by+Step" />
 </p>
 <details>
 <p><strong> <summary>  Busy learning & coding :   </summary> </strong></p>
