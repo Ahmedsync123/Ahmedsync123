@@ -1,9 +1,13 @@
-<h1 align="center">✨ AhmedReda ✨</h1>
 <div align="center" width="50">
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<h1 align="center">
+🧑‍💻 AhmedReda 🧑‍💻
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Front-End+Developer+in+Progress;Learning+CS50+Basics;Building+My+Skills+Step+by+Step" />
+</p>
 <details>
 <p><strong> <summary>  Busy learning & coding :   </summary> </strong></p>
 
