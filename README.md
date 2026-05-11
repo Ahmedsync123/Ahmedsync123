@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmed Reda</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=220&section=header&text=Ahmed%20Reda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">Frontend Developer | Learning & Building Modern Web Interfaces</h3>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
-</p>
 
 ---
 
