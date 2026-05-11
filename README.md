@@ -1,55 +1,72 @@
 <h1 align="center">Hi 👋, I'm Ahmed Reda</h1>
 
-<h3 align="center">Frontend Developer | Learning & Building</h3>
+<h3 align="center">Frontend Developer | Learning & Building Modern Web Interfaces</h3>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Clean+UI+Interfaces;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Frontend Development**
-- 💡 Building strong fundamentals in **HTML, CSS, JavaScript**
-- 🚀 Focused on improving my coding skills step by step
-- 📍 Passionate about web development and clean UI
+- 🌱 Learning **Frontend Development**
+- 💡 Focused on **HTML, CSS, JavaScript**
+- 🚀 Building my skills step by step
+- 🎨 Interested in clean UI and modern design
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
-
----
-
-## 📚 Learning Journey
-
-- HTML5 structure & semantics  
-- CSS styling & responsive design  
-- JavaScript basics & DOM manipulation  
-- Improving problem-solving skills  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedReda&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedReda&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedReda&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedReda&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedReda&theme=react-dark" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: AhmedReda  
+<p align="center">
+  <a href="https://www.linkedin.com/in/AhmedReda">
+    <img src="https://img.shields.io/badge/LinkedIn-AhmedReda-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
 ## ⚡ Quote
 
-> “Small steps every day lead to big results.”
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
 
 ---
