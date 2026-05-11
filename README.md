@@ -8,7 +8,6 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
 <hr></hr>
@@ -20,8 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
----
 
 ```dart
 // tools_I_use organized
